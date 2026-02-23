@@ -21,10 +21,27 @@ class calculator
 	}
 	
 	
+	
 	static int Pengurangan(int a, intb)
 	{
 		return a - b;
 	}
+	
+	
+	
+	static int Perkalian(int a, intb)
+	{
+		return a * b;
+	}
+	
+	
+	
+	static int Pembagian(int a, intb)
+	{
+		return a / b;
+	}
+	
+	
 	
 	
 	
