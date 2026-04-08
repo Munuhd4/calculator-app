@@ -9,7 +9,7 @@ class calculator
 		Console.WriteLine("Hasil Pengurangan: {0} / {1} = {2}",a, b, Pembagian(a,b));
 		
 		
-		Console.WriteLine("\nTekan Sembarang untuk keluar");
+		Console.WriteLine("\nTekan Sembarang untuk keluar..");
 		Console.ReadKey();
 		
 	
