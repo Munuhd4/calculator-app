@@ -10,7 +10,7 @@ class calculator
 		
 		
 		Console.WriteLine("\nTekan Sembarang untuk keluar");
-		Console,ReadKey();
+		Console.ReadKey();
 		
 	
 
@@ -19,28 +19,28 @@ class calculator
 	}
 	
 	
-	static int Penambahan(int a, intb)
+	static int Penambahan(int a, int b)
 	{
 		return a + b;
 	}
 	
 	
 	
-	static int Pengurangan(int a, intb)
+	static int Pengurangan(int a, int b)
 	{
 		return a - b;
 	}
 	
 	
 	
-	static int Perkalian(int a, intb)
+	static int Perkalian(int a, int b)
 	{
 		return a * b;
 	}
 	
 	
 	
-	static int Pembagian(int a, intb)
+	static int Pembagian(int a, int b)
 	{
 		return a / b;
 	}
